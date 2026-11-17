@@ -1,4 +1,4 @@
 Hextris by Logan Engstrom, Garrett Finucane and contributors - GNU GPL v3 (see LICENSE).
 Original: https://github.com/Hextris/hextris (commit 3f4847dc8fd7dab3d1c87e6324b9159d92fbd396).
 Source code of this modified version: https://github.com/lukenicklsonjr-code/hextris
-Changes: removed third-party ads and analytics, the score ping, social share buttons and app-store badges; description no longer names other games.
+Changes: removed third-party ads and analytics, the score ping, social share buttons and app-store badges (Restart button centred); description no longer names other games.
